@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @El-djaBlo
-- 👀 I’m interested in Coding,UI/UX,Photography and video editing
-- 🌱 I’m currently learning c++, java and web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail id:- rachitsrivastava792@gmail.com
+👋 Hi, I’m @El-djaBlo (Rachit Srivastava)  
+🧠 Passionate about AI, full-stack development, and problem-solving  
+🎯 Currently working on deep learning projects in medical imaging and video anomaly detection  
+📸 I also love UI/UX design, photography, and video editing  
+💻 Exploring C++, Java (Spring Boot), and modern web development (HTML/CSS/JS + frameworks)  
+🤝 Looking to collaborate on AI/ML, open-source tools, or full-stack projects  
+📫 Reach me at: rachitsrivastava792@gmail.com
+
 
 <!---
 El-djaBlo/El-djaBlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
